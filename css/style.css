@@ -1,0 +1,38 @@
+body{
+    font: 20px Arial, cursive;
+}
+
+.navbar{
+    background-color: black;
+}
+
+.nav-item{
+    background-color: #FFFF;
+    font-family: Arial black;
+}
+
+nav a img{
+    margin-left: 10px;
+}
+
+.quemsomos{
+    background-color:aqua;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: chartreuse;
+}
+
+.servicos{
+    background-color:crimson;
+}
+
+.bg-footer{
+    background-color: #141414;
+    color: #FDFEFE;
+}
